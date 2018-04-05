@@ -1,0 +1,2 @@
+# Linux
+thực hành linux
